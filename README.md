@@ -1,5 +1,5 @@
 # Montevideo Hub - Young AI Leaders
 
-----------------
+------------------------
 
-![logo](logos/Montevideo Hub-\ Coloured Logo.png)
+<img src="logos/coloured_logo.png" width="100" height="100" />
