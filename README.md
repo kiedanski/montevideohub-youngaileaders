@@ -20,9 +20,9 @@ If:
 
 Don't hesitate and apply using the following [link](https://aiforgood.itu.int/young-ai-leaders-community/) or reach out to me via [LinkedIn](https://www.linkedin.com/in/diego-kiedanski)
 
->> Note: this is a voluntary program
+> Note: this is a voluntary program
 
->> Note: we expect accepted members to have an active participation in the operation of the hub and it's associated projects
+> Note: we expect accepted members to have an active participation in the operation of the hub and it's associated projects
 
 ------------------------
 
