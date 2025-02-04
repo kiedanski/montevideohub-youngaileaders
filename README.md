@@ -1,2 +1,2 @@
-# montevideohub-youngaileaders
-Landing page for the Montevideo Hub
+# Montevideo Hub - Young AI Leaders
+
