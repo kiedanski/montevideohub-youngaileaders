@@ -2,4 +2,4 @@
 
 ----------------
 
-![logo](logs/Montevideo Hub-\ Coloured Logo.png)
+![logo](logos/Montevideo Hub-\ Coloured Logo.png)
